@@ -2166,6 +2166,7 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
+
 	}
 
 		.image img {
@@ -2679,6 +2680,7 @@
 				.features article .image img {
 					border-radius: 5px 5px 0 0;
 					width: 100%;
+					height: 260px;
 				}
 
 		@media screen and (max-width: 980px) {
